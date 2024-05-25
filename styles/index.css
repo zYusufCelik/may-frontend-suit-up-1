@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+homepage-header-container {
+  width: 100;
+}
+header-box {
+  max-width: 1350px;
+  margin: 0 auto 0 auto;
+}
